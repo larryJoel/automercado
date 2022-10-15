@@ -9,6 +9,6 @@ class Fresco: Articulo{
 }
     public override string ToString()
     {
-        return base.ToString()+"Tipo: "+tipo+" ,peso: "+peso;
+         return $"Codigo: {codigo}\n Nombre:{nombre} \n Marca: {marca}\n Cantidad: {cantidad}\n Precio unitario: {precioUnitario}\n Tipo: {tipo}, peso: {peso}";
     }
 }

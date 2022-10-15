@@ -20,6 +20,6 @@ class Articulo{
             + $"nombre: {nombre}\n"
             + $"marca: {marca}\n"
             + $"cantidad: {cantidad}\n"
-            + $"precio Unitairio: {precioUnitario}\n";
+            + $"precio Unitairio: {precioUnitario}$\n";
     }
 }
