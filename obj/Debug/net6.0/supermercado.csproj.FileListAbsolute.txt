@@ -1,0 +1,15 @@
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\supermercado.csproj.AssemblyReference.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\supermercado.AssemblyInfoInputs.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\supermercado.AssemblyInfo.cs
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\supermercado.csproj.CoreCompileInputs.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\bin\Debug\net6.0\supermercado.exe
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\bin\Debug\net6.0\supermercado.deps.json
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\bin\Debug\net6.0\supermercado.runtimeconfig.json
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\bin\Debug\net6.0\supermercado.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\bin\Debug\net6.0\supermercado.pdb
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\supermercado.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\refint\supermercado.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\supermercado.pdb
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\supermercado.genruntimeconfig.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\supermercado\obj\Debug\net6.0\ref\supermercado.dll
